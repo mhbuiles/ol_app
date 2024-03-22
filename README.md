@@ -11,6 +11,8 @@
 - Run command `yarn dev` in your terminal.
 - Open `localhost:5173` in your browser.
 
+## NOTE: both branches (dev and main) are synced, both of them currently have the exact same code.
+
 # Additional notes:
 
 -All data that is displayed in all pages (notifications, dashboard, users and projects) come from the API, there's nothing mocked.
